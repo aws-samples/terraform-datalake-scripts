@@ -1,0 +1,11 @@
+#itau
+##aws
+###saeast1
+#####11111111
+######ec2
+#######instance-id
+########logname
+#########year=yyyy
+##########month=mm
+###########day=dd
+############logfile
