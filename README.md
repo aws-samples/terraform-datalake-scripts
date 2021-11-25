@@ -1,11 +1,7 @@
-## My Project
+## Security Datalake - Terraform Scripts
 
-TODO: Fill this README out!
+Este repositório contem os scripts necessários para criar e testar um _datalake_ para times focados em Segurança da Informação, ao final sera criado os recursos necessários para funcionamento da solução descrito no blog.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## Security
 
